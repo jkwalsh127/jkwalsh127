@@ -16,15 +16,12 @@
 ### My name is Jake
 ### Here is a little about me:
 
-- I am an aspiring programmer from San Francisco, California
-
+- I am an aspiring programmer from San Francisco, California 🌉
+- I began coding in 2020 when I learned to develop algorithms for buying and selling publicly traded assets 📈
 - I received my full-stack certificate from the UC Berkeley Extension coding bootcamp in June of 2022 👨‍💻
-
 - I completed my B.S. in Biochemistry at UC Davis in the winter of 2022  🧪
-
 - I have also worked as a helicopter structural mechanic for the CA National Guard for 4+ years 🚁
-
-- My favorite ways to spend my time include being with family, in my garden, on a lake or stream, reading, listening to podcasts, or building something novel
+- My favorite ways to spend my time include being with family, in my garden, on a lake or stream, reading, listening to podcasts, or building something novel 🌱
 
 ---
 ### Languages and Tools :
